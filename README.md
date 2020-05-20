@@ -1,7 +1,7 @@
 # colegio
 
 - **JOSÉ ANTONIO MUÑOZ JIMÉNEZ**
-
+- **Fecha nacimiento: 28/09/1973**
 
 JAVA: Jerarquía de clases
 
